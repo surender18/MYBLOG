@@ -1,2 +1,0 @@
-# MYBLOG
-using MERN 
